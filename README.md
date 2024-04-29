@@ -8,7 +8,7 @@ Código desenvolvido com fins facultativos onde simula o gerenciamento de um clu
 Demonstrar conhecimento em aplicações Java na prática.
 
 ## Ferramentas
-[![JAVA](style=for-the-badge&logo=git&logoColor=E94D5F)](https://dev.java/learn/language-basics/) 
+[![JAVA] 
 <br>
 
 ## Percurso
@@ -32,9 +32,6 @@ Demonstrar conhecimento em aplicações Java na prática.
     <tr>
       <td>03</td>
       <td>Criação da Main Class e Menu de Interface</td>
-    </tr>
-    <tr>
-      <td>04</td>
     </tr>
   </tbody>
   <tfoot></tfoot>
@@ -61,4 +58,4 @@ Demonstrar conhecimento em aplicações Java na prática.
 - [JAVA. Documentation](https://docs.oracle.com/en/java/)
 
 ##
-<div align="center">Feito por<a href="https://github.com/pExola">Paixao</a>.</div>
+<div align="center">Feito por <a href="https://github.com/pExola">Paixao</a>.</div>
